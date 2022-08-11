@@ -42,6 +42,7 @@ public static void menu(){
     System.out.println("                           3 - Пополнить боезапас робота");
     System.out.println("                           4 - Показать сколько бандитов осталось");
     System.out.println("                           5 - Выключить робота");
+    System.out.println(123);
 }
 
 }
